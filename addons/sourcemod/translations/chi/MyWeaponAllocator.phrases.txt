@@ -1,0 +1,126 @@
+// Exported from SourceMod Translator
+// Date: 2018-07-26 13:18:58 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/311
+//
+"Phrases"
+{
+
+	"Bomb planted on Bombsite"
+	{
+		"chi"		"C4 已经放置在:"
+	}
+
+	"Pistol Round"
+	{
+		"chi"		"手枪局"
+	}
+
+	"Force Buy Round"
+	{
+		"chi"		"强起局"
+	}
+
+	"Full Buy Round"
+	{
+		"chi"		"全起局"
+	}
+
+	"Deagle Round"
+	{
+		"chi"		"纯沙鹰局"
+	}
+
+	"Now is"
+	{
+		"chi"		"现在是:"
+	}
+
+	"A-A-A"
+	{
+		"chi"		"A-A-A 点"
+	}
+
+	"B-B-B"
+	{
+		"chi"		"B-B-B 点"
+	}
+
+	"Select a CT rifle"
+	{
+		"chi"		"选择CT长枪局主武器:"
+	}
+
+	"Select a T rifle"
+	{
+		"chi"		"选择T长枪局主武器:"
+	}
+
+	"Select a CT pistol"
+	{
+		"chi"		"选择CT手枪:"
+	}
+
+	"Select a T pistol"
+	{
+		"chi"		"选择T手枪:"
+	}
+
+	"Select a CT SMG"
+	{
+		"chi"		"选择一个CT强起局主武器:"
+	}
+
+	"Select a T SMG"
+	{
+		"chi"		"选择一个T强起局主武器:"
+	}
+
+	"Allow Sniper"
+	{
+		"chi"		"是否在强起局使用Ssg08?\n是否在全起局使用AWP?"
+	}
+	
+	"Allow Taser"
+	{
+		"chi"		"是否使用电击枪?"
+	}
+	
+	"Allow Xm1014"
+	{
+		"chi"		"是否使用连喷?"
+	}
+	
+	"Yes"
+	{
+		"chi"		"是"
+	}
+
+	"No"
+	{
+		"chi"		"否"
+	}
+
+	"on Bombsite"
+	{
+		"chi"		"C4安放在:"
+	}
+
+	"Weapons next round"
+	{
+		"chi"		"您将在下个回合开始获得新武器."
+	}
+
+	"Round Type"
+	{
+		"chi"		"回合类型:"
+	}
+
+	"You need to be in a team"
+	{
+		"chi"		"你必须加入CT或者T阵营 才能选择您的武器."
+	}
+
+}

@@ -1,0 +1,26 @@
+"Phrases"
+{
+    "InstaDefuseUnsuccessful"
+    {
+        "#format"	"{1:s},{2:.1f}"
+        "chi"		"{1} 炸弹还有 {2} 秒爆炸. 恐怖分子胜利."
+    }
+    
+    "LiveNadeSomewhere"
+    {
+        "#format"    "{1:s}"
+        "chi"        "{1} 某处有一枚有效的手榴弹，祝你好运！"
+    }
+    
+    "MolotovTooClose"
+    {
+        "#format"    "{1:s}"
+        "chi"        "{1} 炸弹附近有一个燃烧弹，祝你好运！"
+    }
+    
+    "InstaDefuseSuccessful"
+    {
+        "#format"    "{1:s},{2:.1f}"
+        "chi"        "{1} 炸弹还有 {2} 秒爆炸. 反恐精英胜利."
+    }
+}
